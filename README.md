@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rkbaghel95
-- 👀 I’m interested in developer
-- 🌱 I’m currently learning artifical inteligent
+- 👀 I’m interested in java developer
+- 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on developer
 - 📫 How to reach me 
 - 😄 Pronouns: ...
